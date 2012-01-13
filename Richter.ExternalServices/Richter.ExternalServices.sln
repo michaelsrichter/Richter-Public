@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richter.ExternalServices.Core", "Richter.ExternalServices.Core\Richter.ExternalServices.Core.csproj", "{2B359588-D724-4E96-8A25-3218B078E779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richter.ExternalServices.Profanity", "Richter.ExternalServices.Profanity\Richter.ExternalServices.Profanity.csproj", "{7806315E-2436-4C9A-B6C6-83F2D87D7055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richter.ExternalServices.Translator", "Richter.ExternalServices.Translator\Richter.ExternalServices.Translator.csproj", "{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richter.ExternalServices.UrlShortener", "Richter.ExternalServices.UrlShortener\Richter.ExternalServices.UrlShortener.csproj", "{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Richter.ExternalServices.Tests", "Richter.ExternalServices.Tests\Richter.ExternalServices.Tests.csproj", "{73024B5D-B9E6-472D-B217-657C5E683951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B359588-D724-4E96-8A25-3218B078E779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B359588-D724-4E96-8A25-3218B078E779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B359588-D724-4E96-8A25-3218B078E779}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{2B359588-D724-4E96-8A25-3218B078E779}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{2B359588-D724-4E96-8A25-3218B078E779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B359588-D724-4E96-8A25-3218B078E779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7806315E-2436-4C9A-B6C6-83F2D87D7055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806315E-2436-4C9A-B6C6-83F2D87D7055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806315E-2436-4C9A-B6C6-83F2D87D7055}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{7806315E-2436-4C9A-B6C6-83F2D87D7055}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{7806315E-2436-4C9A-B6C6-83F2D87D7055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806315E-2436-4C9A-B6C6-83F2D87D7055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70A82A2-49BD-46EE-90BA-68ACDB16BAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA1E62D-C47B-4C6F-8CA5-66E9644E16A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73024B5D-B9E6-472D-B217-657C5E683951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73024B5D-B9E6-472D-B217-657C5E683951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73024B5D-B9E6-472D-B217-657C5E683951}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{73024B5D-B9E6-472D-B217-657C5E683951}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{73024B5D-B9E6-472D-B217-657C5E683951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73024B5D-B9E6-472D-B217-657C5E683951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
